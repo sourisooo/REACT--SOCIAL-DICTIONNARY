@@ -1,0 +1,244 @@
+{
+  "words": [
+    {
+      "test": "ours",
+      "suggestion": "berui",
+      "like": 1,
+      "id": 1
+    },
+    {
+      "test": "ours",
+      "suggestion": "berui2",
+      "like": 1,
+      "id": 2
+    },
+    {
+      "test": "ours",
+      "suggestion": "brt",
+      "like": 1,
+      "id": 3
+    },
+    {
+      "test": "ours",
+      "suggestion": "tttbbb",
+      "like": 55,
+      "id": 4
+    },
+    {
+      "test": "ours",
+      "like": 1,
+      "suggestion": "nameppp",
+      "id": 5
+    },
+    {
+      "test": "ours",
+      "like": 32,
+      "suggestion": "bear is a gentle animal",
+      "id": 6
+    },
+    {
+      "test": "ours",
+      "like": 10,
+      "suggestion": "bear is bear",
+      "id": 7
+    },
+    {
+      "test": "ours",
+      "like": 22,
+      "suggestion": "bear make sense",
+      "id": 8
+    },
+    {
+      "test": "ours",
+      "like": 17,
+      "suggestion": "",
+      "id": 9
+    },
+    {
+      "test": "ours",
+      "like": 16,
+      "suggestion": "bear is terrrible",
+      "id": 10
+    },
+    {
+      "test": "ours",
+      "like": 14,
+      "suggestion": "new suggest ofr bear",
+      "id": 11
+    },
+    {
+      "test": "ours",
+      "suggestion": "zzzz",
+      "like": 0,
+      "id": 12
+    },
+    {
+      "test": "ours",
+      "suggestion": "new like for bear",
+      "like": 0,
+      "id": 13
+    },
+    {
+      "test": "facile",
+      "suggestion": "test button",
+      "like": 4,
+      "id": 14
+    },
+    {
+      "test": "facile",
+      "suggestion": "test after like",
+      "like": 1,
+      "id": 15
+    },
+    {
+      "test": "facile",
+      "suggestion": "test after like",
+      "like": 0,
+      "id": 16
+    },
+    {
+      "test": "facile",
+      "suggestion": "test after like",
+      "like": 1,
+      "id": 17
+    },
+    {
+      "test": "facile",
+      "suggestion": "test",
+      "like": 0,
+      "id": 18
+    },
+    {
+      "test": "facile",
+      "suggestion": "test2",
+      "like": 1,
+      "id": 19
+    },
+    {
+      "test": "facile",
+      "suggestion": "test3",
+      "like": 0,
+      "id": 20
+    },
+    {
+      "test": "facile",
+      "suggestion": "test4",
+      "like": 0,
+      "id": 21
+    },
+    {
+      "test": "facile",
+      "suggestion": "test4anoter one",
+      "like": 0,
+      "id": 22
+    },
+    {
+      "test": "facile",
+      "suggestion": "wwwww",
+      "like": 0,
+      "id": 23
+    },
+    {
+      "test": "facile",
+      "suggestion": "facile oui",
+      "like": 0,
+      "id": 24
+    },
+    {
+      "test": "facile",
+      "suggestion": "facile non",
+      "like": 0,
+      "id": 25
+    },
+    {
+      "test": "ours",
+      "suggestion": "delete",
+      "like": 0,
+      "id": 26
+    },
+    {
+      "test": "ours",
+      "suggestion": "new delete",
+      "like": 1,
+      "id": 27
+    },
+    {
+      "test": "facile",
+      "suggestion": "new suggestion for facile",
+      "like": 0,
+      "id": 28
+    },
+    {
+      "test": "facile",
+      "suggestion": "kkkllaaaaa",
+      "like": 0,
+      "id": 29
+    },
+    {
+      "test": "facile",
+      "suggestion": "kkkllaaaaa",
+      "like": 0,
+      "id": 30
+    },
+    {
+      "test": "facile",
+      "suggestion": "kkkllaaaaa",
+      "like": 0,
+      "id": 31
+    },
+    {
+      "test": "facile",
+      "suggestion": "kkkllaaaaa",
+      "like": 0,
+      "id": 32
+    },
+    {
+      "test": "facile",
+      "suggestion": "kkkllaaaaa",
+      "like": 0,
+      "id": 33
+    },
+    {
+      "test": "facile",
+      "suggestion": "facile is not simple",
+      "like": 2,
+      "id": 34
+    },
+    {
+      "test": "facile",
+      "suggestion": "facile?",
+      "like": 0,
+      "id": 35
+    },
+    {
+      "test": "ours",
+      "suggestion": "My opinion is that bear is not so big.",
+      "like": 0,
+      "id": 36
+    },
+    {
+      "test": "ours",
+      "suggestion": "try to click on the button at the right of the suggestion to add new like",
+      "like": 2,
+      "id": 37
+    },
+    {
+      "test": "ours",
+      "suggestion": "some switch",
+      "like": 1,
+      "id": 38
+    },
+    {
+      "test": "ours",
+      "suggestion": "again another suggestion",
+      "like": 0,
+      "id": 39
+    },
+    {
+      "test": "facile",
+      "suggestion": "last try for facile: why should i do it if anybody can do?",
+      "like": 1,
+      "id": 40
+    }
+  ]
+}

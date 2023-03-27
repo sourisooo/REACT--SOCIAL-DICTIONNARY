@@ -1,0 +1,33 @@
+{
+  "words": [
+    {
+      "test": "bear",
+      "like": 2,
+      "id": 1
+    },
+    {
+      "test": "easy",
+      "suggestion": "easy dont need to be explain",
+      "like": 1,
+      "id": 2
+    },
+    {
+      "test": "easy",
+      "suggestion": "it can take time to do easy things",
+      "like": 5,
+      "id": 3
+    },
+    {
+      "test": "bear",
+      "suggestion": "a big guy who spend his time to eat salmon",
+      "like": 2,
+      "id": 4
+    },
+    {
+      "test": "easy",
+      "suggestion": "how many easy things can i do before it become hard?",
+      "like": 0,
+      "id": 5
+    }
+  ]
+}

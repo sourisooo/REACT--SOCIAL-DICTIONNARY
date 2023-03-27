@@ -1,0 +1,27 @@
+{
+  "words": [
+    {
+      "test": "くま",
+      "like": 2,
+      "id": 1
+    },
+    {
+      "test": "くま",
+      "suggestion": "こんにちは日本",
+      "like": 1,
+      "id": 2
+    },
+    {
+      "test": "簡単",
+      "suggestion": "Sorry i need to write in english",
+      "like": 0,
+      "id": 3
+    },
+    {
+      "test": "簡単",
+      "suggestion": "Sorry",
+      "like": 1,
+      "id": 4
+    }
+  ]
+}
